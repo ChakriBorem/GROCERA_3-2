@@ -4,8 +4,8 @@ import os
 class Config:
     # Flask Configuration
     SECRET_KEY = 'coe_project'  # Change this to a secure key
-    GEMINI_API_KEY='AIzaSyDfQBM1UKyyHEsOdH_DrhiIx9IBB7veAaE'
-    GOOGLE_API_KEY='AIzaSyAz6tkm0PUXWeP1vFCxF8FGH-oqUPo_znU'
+    GEMINI_API_KEY='your_gemini_api_key'
+    GOOGLE_API_KEY='ypur_google_api_key'
     
     # File Upload Configuration
     UPLOAD_FOLDER = 'uploads'
