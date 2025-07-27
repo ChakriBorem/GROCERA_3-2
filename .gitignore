@@ -1,6 +1,7 @@
 __pycache__/
-.idea/
-.ipynb_checkpoints/
-venv/
-uploads/
 *.pyc
+*.pkl
+*.ipynb_checkpoints/
+.env
+.DS_Store
+*.sqlite3
